@@ -12,7 +12,7 @@ These days, I am actively exploring the fields of Machine Learning and Artificia
 
 ---
 
-## Projects
+## ⚡ Projects
 
 <!--
 ## Notable Projects:
@@ -47,15 +47,15 @@ Over the years, I’ve gained hands-on experience with a diverse set of domains,
 
 ---
 
-## Current Learnings & Experiences:
+## 🔭 Current Learnings & Experiences:
 - Exploring Aritificial Intelligence & Machine Learning
 - Exploring Research Areas in Applied Machine Learning
 - Working on an idea in cross platform using Flutter
 
 ---
 
-## Contact Me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?styl=flat&logo=linkedin)(https://www.linkedin.com/in/ajay-sagar-parwani-b7258a47/)]
+## 💬 Contact Me:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?styl=flat&logo=linkedin)](https://www.linkedin.com/in/ajay-sagar-parwani-b7258a47/)
 - [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@code_bitsAndBytes)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ajay.sagar92@gmail.com)
 <!--
